@@ -1,3 +1,4 @@
+#include "singlton.h"
 
 class UsageExample : public Singleton<UsageExample> {
     // Allow Singleton to create an instance of UsageExample
