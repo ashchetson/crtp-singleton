@@ -1,0 +1,1 @@
+CRTP (Curiously Recurring Template Pattern) and Singleton can be combined to create a templated singleton in C++. This approach allows making a base class a singleton without duplicating code in each derived class.
