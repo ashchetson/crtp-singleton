@@ -1,4 +1,4 @@
-#include "crtpsinglton.h"
+#include "singlton.h"
 #include "usageexample.cpp"
 
 int main() {
